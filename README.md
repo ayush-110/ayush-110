@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**ayush-110/ayush-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Backend Engineer | Enterprise AI & Automation
 
-Here are some ideas to get you started:
+I build production-oriented software and AI systems that turn complex
+enterprise workflows into reliable, measurable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My engineering journey is focused on:
+
+- 🐍 Python & Backend Engineering
+- ⚡ FastAPI & APIs
+- 🗄️ PostgreSQL & Data Systems
+- ☁️ Cloud & Distributed Systems
+- 🤖 LLM Applications
+- 🔎 RAG & Retrieval Systems
+- 🧠 Agentic AI
+- 📊 AI Evaluation & Observability
+- 🚀 Production AI Systems
+
+---
+
+## My Engineering Journey
+
+```text
+Enterprise Automation
+        ↓
+Backend Engineering
+        ↓
+AI Engineering
+        ↓
+Production AI
+        ↓
+Forward Deployed Engineering
