@@ -72,3 +72,28 @@ AI Evaluation
   ↓
 Production AI
 ```
+
+# 🎯 Long-Term Goal
+### Become a Forward Deployed Engineer capable of:
+
+```text
+Discover
+   ↓
+Define
+   ↓
+Decompose
+   ↓
+Design
+   ↓
+Build
+   ↓
+Evaluate
+   ↓
+Deploy
+   ↓
+Measure
+   ↓
+Iterate
+```
+
+### and ultimately turn ambiguous enterprise problems into production systems with measurable business impact.
