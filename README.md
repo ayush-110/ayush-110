@@ -97,3 +97,27 @@ Iterate
 ```
 
 ### and ultimately turn ambiguous enterprise problems into production systems with measurable business impact.
+
+
+# 📚 What You'll Find Here
+## Engineering
+- Backend systems
+- APIs
+- Distributed systems
+- Cloud architecture
+- System design
+
+## AI
+- LLM applications
+- RAG
+- Agentic systems
+- AI evaluation
+- AI observability
+- Production AI
+
+## FDE
+- Architecture deep dives
+- Enterprise AI case studies
+- Customer problem-solving
+- Technical experiments
+- Interview preparation
