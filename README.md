@@ -34,7 +34,7 @@ Forward Deployed Engineering
 ```
 
 
-🚧 Currently Building
+# 🚧 Currently Building
 ## FDE Portfolio
 
 I'm building a portfolio of production-oriented systems covering:
@@ -49,3 +49,26 @@ I'm building a portfolio of production-oriented systems covering:
 - Enterprise AI
 
 👉 [View my FDE Portfolio](https://github.com/ayush-110/ayush-fde)
+
+
+# 🏗️ Current Focus
+
+```text
+Python
+  ↓
+FastAPI
+  ↓
+PostgreSQL
+  ↓
+Distributed Systems
+  ↓
+LLM Engineering
+  ↓
+RAG
+  ↓
+Agents
+  ↓
+AI Evaluation
+  ↓
+Production AI
+```
