@@ -31,3 +31,20 @@ AI Engineering
 Production AI
         ↓
 Forward Deployed Engineering
+```
+
+🚧 Currently Building
+FDE Portfolio
+
+I'm building a portfolio of production-oriented systems covering:
+
+Enterprise workflow automation
+Backend engineering
+RAG systems
+AI agents
+AI evaluation
+System design
+Cloud deployment
+Enterprise AI
+
+👉 [View my FDE Portfolio](https://github.com/ayush-110/ayush-fde)
